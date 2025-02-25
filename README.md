@@ -1,6 +1,6 @@
 # Effects
 
-![Image](https://github.com/user-attachments/assets/e54b9e44-399f-4dd6-99e9-27b51b0db327)
+![Image](https://github.com/user-attachments/assets/a34afc64-b887-4e79-a63a-a95634b09da9)
  
 - [Demo Project](https://nastaranghorbanpour.github.io/parallax/)
 - Developed by Nastaran Ghorbanpour
