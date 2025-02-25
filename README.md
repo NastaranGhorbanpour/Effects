@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/a34afc64-b887-4e79-a63a-a95634b09da9)
  
-- [Demo Project](https://nastaranghorbanpour.github.io/parallax/)
+- [Demo Project](https://nastaranghorbanpour.github.io/Effects/)
 - Developed by Nastaran Ghorbanpour
 - Created - 2025-02-25
 - Technologies Used : Html , css 
